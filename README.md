@@ -1,6 +1,8 @@
 # Event Management App
 
-This project is an event management application built using React.js for the frontend, Node.js or Django for the backend, and **PostgreSQL** for the database. It includes features for user dashboards, event creation, registration, on-site management, and waitlist management.
+**Team Members:** Muhammad Hussain, Muhammad Zayed Nauman, Gehna Bhatia, Piranchal, Shaheer Hussain 
+
+This project is an event management application built using React.js for the frontend, Node.js for the backend, and **PostgreSQL** for the database. It includes features for user dashboards, event creation, registration, on-site management, and waitlist management.
 
 **Note:** This version uses PostgreSQL instead of Supabase for better local development and flexibility.
 
@@ -56,7 +58,7 @@ event-management-app
 │   │   └── utils
 │   │       └── validators.js
 │   └── .env
-├── backend-django     # Django backend
+├── backend-django    
 │   ├── manage.py
 │   ├── requirements.txt
 │   ├── project
